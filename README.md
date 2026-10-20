@@ -54,3 +54,13 @@ It integrates a continuously expanding Excel-based stock universe with three val
 - yfinance
 - Financial Modeling Prep API
 - Microsoft Excel
+
+<br> 
+
+## Example Research Output
+![Example Valuation Output](valuation_output.png)
+
+<br>
+
+## Sensitivity Analysis 
+![Financial Database](financial_database.png)
